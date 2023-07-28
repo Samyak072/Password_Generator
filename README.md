@@ -2,7 +2,7 @@
 
 This is a simple password generator written in Python that allows you to generate random passwords based on your preferences.
 
-## Features
+## General Features
 
 - Generate a single random password with custom length.
 - Regenerate passwords if you are not satisfied with the initial one.
