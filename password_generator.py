@@ -1,6 +1,6 @@
 import random
 import string
-import pyperclip  # This library allows copying text to the clipboard
+import pyperclip 
 
 def generate_password(length, chars):
     password = "".join(random.choice(chars) for _ in range(length))
